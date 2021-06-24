@@ -1,0 +1,64 @@
+/* CSS comment 
+dark blue: #264d73
+light blue: #8cb3d9
+red: cc0000
+
+font-family: 'Dela Gothic One', cursive;
+font-family: 'Kirang Haerang', cursive;
+font-family: 'Montserrat', sans-serif;
+
+*/
+body {
+  background-color: #264d73; 
+  /*change background colour*/
+  font-family: 'Montserrat', sans-serif;
+  /*change font */
+  padding: 20px;
+  text-align: center;
+}
+
+.header{
+	background-color: #cc0000;
+	margin: auto;
+	width: 80%;
+	height: 330px;
+	border: 2px solid black;
+	font-family: 'Dela Gothic One', cursive;
+}
+.button{
+	display: inline;
+	border: 2px solid black;
+	text-decoration: none;
+	padding: 15px;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: #8cb3d9;
+	color: #264d73;
+}
+/*new content*/
+.nav{
+	margin: 20px;
+}
+
+img{
+	border: 2px solid black;
+	border-radius: 5px;
+}
+
+h1 {
+  color: white; /*change font colour in h1 tag only*/
+  /* float: right; align right */
+  font-size: 40px;
+  
+}
+
+p {
+	
+}
+.main{
+	color: #8cb3d9;
+	width: 90%;
+	margin: auto;
+	border: 2px solid black;
+	padding: 10px;
+}
